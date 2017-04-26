@@ -6,6 +6,6 @@ package com.prueba_android.sunset.pruebasunset.Classes;
 
 public class Preferences {
 
-    public static final String SERVER = "http://www.encicla.gov.co/status/";
+    public static final String BASE_URL = "http://www.encicla.gov.co/status/";
 
 }
